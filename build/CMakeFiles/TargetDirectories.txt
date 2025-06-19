@@ -1,0 +1,4 @@
+/home/spes-lm/Github/Test/HelloQtApp/build/CMakeFiles/HelloQtApp.dir
+/home/spes-lm/Github/Test/HelloQtApp/build/CMakeFiles/edit_cache.dir
+/home/spes-lm/Github/Test/HelloQtApp/build/CMakeFiles/rebuild_cache.dir
+/home/spes-lm/Github/Test/HelloQtApp/build/CMakeFiles/HelloQtApp_autogen.dir
